@@ -1,1 +1,1 @@
-# practice-ract-app-testing
+# practice-react-app-testing
